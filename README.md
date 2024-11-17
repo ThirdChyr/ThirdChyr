@@ -5,7 +5,7 @@
 
 ### **Language and Tools**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,java,docker,kubernetes,postman,arduino,linux,azure)](https://skillicons.dev)
-### **Data base**
+### **Database**
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 
