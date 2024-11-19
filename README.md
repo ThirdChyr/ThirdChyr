@@ -9,6 +9,8 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThirdChyr&layout=compact)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThirdChyr&show_icons=true&theme=dark)
 
 
