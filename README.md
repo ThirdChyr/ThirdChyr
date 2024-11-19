@@ -12,4 +12,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThirdChyr&show_icons=true&bg_color=FFFFFFF)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThirdChyr)](https://github.com/anuraghazra/github-readme-stats)
 
