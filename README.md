@@ -13,3 +13,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThirdChyr&show_icons=true&bg_color=FFFFFFF)
 
+![](https://komarev.com/ghpvc/?username=ThirdChyr&color=white)
