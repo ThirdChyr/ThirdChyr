@@ -7,10 +7,10 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,docker,kubernetes,postman,arduino,linux,azure)](https://skillicons.dev)
 ### **Database**
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+![](https://komarev.com/ghpvc/?username=ThirdChyr&color=black)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThirdChyr&layout=compact)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThirdChyr&show_icons=true&bg_color=FFFFFFF)
 
-![](https://komarev.com/ghpvc/?username=ThirdChyr&color=white)
