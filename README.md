@@ -4,7 +4,7 @@
 ### I'm interested in **Enbedded System** ,**Cloud Computing** ,**FPGA** ,**RTOS**,**IOT**
 
 ### **Language and Tools**
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,docker,kubernetes,postman,arduino,linux,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,docker,kubernetes,postman,arduino,linux,azure)](https://skillicons.dev)
 ### **Database**
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
