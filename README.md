@@ -10,8 +10,6 @@
 
 ![](https://komarev.com/ghpvc/?username=ThirdChyr&color=gray)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThirdChyr&layout=compact)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThirdChyr&show_icons=true&bg_color=FFFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThirdChyr&layout=compact)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThirdChyr&show_icons=true&bg_color=FFFFFFF)
 
