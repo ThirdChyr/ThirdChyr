@@ -1,6 +1,6 @@
 # 👋 Hello There! I'm **Chayathon Rungrueang**  
 
-🎓 **Computer Engineering Student** @ Kasetsart University Sriracha Campus  
+🎓 **Computer Engineering Student** at **Kasetsart University Sriracha Campus**  
 💡 Passionate about **Embedded Systems, Cloud Computing, FPGA, RTOS, and IoT**  
 
 ## 🚀 **Languages & Tools**
