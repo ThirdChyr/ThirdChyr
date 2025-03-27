@@ -1,15 +1,29 @@
-# Hello There👋
+# 👋 Hello There! I'm **Chayathon Rungrueang**  
 
-#### My name is Chayathon Rungrueang, I study Computer engneering at Kasetsart University Sriracha campus I'm interested in **Enbedded System** ,**Cloud Computing** ,**FPGA** ,**RTOS**,**IOT**
+🎓 **Computer Engineering Student** @ Kasetsart University Sriracha Campus  
+💡 Passionate about **Embedded Systems, Cloud Computing, FPGA, RTOS, and IoT**  
 
+## 🚀 **Languages & Tools**
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,js,docker,kubernetes,postman,arduino,linux,azure)](https://skillicons.dev)
 
-### **Language and Tools**
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,docker,kubernetes,postman,arduino,linux,azure)](https://skillicons.dev)
-### **Database**
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+## 🗄 **Databases**
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
-![](https://komarev.com/ghpvc/?username=ThirdChyr&color=gray)
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThirdChyr&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThirdChyr&show_icons=true&theme=tokyonight" />
+</p>
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThirdChyr&layout=compact)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThirdChyr&show_icons=true&bg_color=FFFFFFF)
+![Profile Views](https://komarev.com/ghpvc/?username=ThirdChyr&color=blue)
 
+---
+
+🔗 **Let's Connect!**  
+- 📧 Email: [YourEmail@example.com]  
+- 🌐 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/)  
+- 💻 GitHub: [ThirdChyr](https://github.com/ThirdChyr)  
+
+---
