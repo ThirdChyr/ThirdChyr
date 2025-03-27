@@ -3,6 +3,14 @@
 🎓 **Computer Engineering Student** @ Kasetsart University Sriracha Campus  
 💡 Passionate about **Embedded Systems, Cloud Computing, Field programmable gate array , Real Time Operating System,Internet of Things**  
 
+---
+
+🔗 **Contact**  
+- 📧 Email: [Chayathon14639@gmail.com]  
+- 💻 GitHub: [ThirdChyr](https://github.com/ThirdChyr)  
+
+---
+
 ## 🚀 **Languages & Tools**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,javascript,arduino,docker,postman,py,anaconda,ubuntu,linux,azure&perline=7)](https://skill-icons-builder.vercel.app/)
 
@@ -19,10 +27,3 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ThirdChyr&color=blue)
 
----
-
-🔗 **Contact**  
-- 📧 Email: [Chayathon14639@gmail.com]  
-- 💻 GitHub: [ThirdChyr](https://github.com/ThirdChyr)  
-
----
