@@ -1,8 +1,8 @@
 # 👋 Hello There! I'm **Chayathon Rungrueang**  
 
-🎓 **Computer Engineering Student** @ Kasetsart University Sriracha Campus  
+🎓 **Computer Engineering Student** at Kasetsart University Sriracha Campus  
 💡 Passionate about **Embedded Systems, Cloud Computing, Field programmable gate array , Real Time Operating System,Internet of Things**  
-🔥 Focus on **FreeRTOS**
+🔥 Focus on **Embedded System, FreeRTOS**
   
 
 ## 🚀 **Languages & Tools**
@@ -24,4 +24,3 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ThirdChyr&color=blue)
-
