@@ -1,7 +1,7 @@
 # 👋 Hello There! I'm **Chayathon Rungrueang**  
 
 🎓 **Computer Engineering Student** @ Kasetsart University Sriracha Campus  
-💡 Passionate about **Embedded Systems, Cloud Computing, FPGA, RTOS, and IoT**  
+💡 Passionate about **Embedded Systems, Cloud Computing, Field programmable gate array , Real Time Operating System, and Internet of Things**  
 
 ## 🚀 **Languages & Tools**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,javascript,arduino,docker,postman,py,anaconda,ubuntu,linux,azure&perline=7)](https://skill-icons-builder.vercel.app/)
