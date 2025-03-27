@@ -2,7 +2,8 @@
 
 🎓 **Computer Engineering Student** @ Kasetsart University Sriracha Campus  
 💡 Passionate about **Embedded Systems, Cloud Computing, Field programmable gate array , Real Time Operating System,Internet of Things**  
-
+🔥 Focus on **FreeRTOS**
+  
 
 ## 🚀 **Languages & Tools**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,javascript,arduino,docker,postman,py,anaconda,ubuntu,linux,azure&perline=7)](https://skill-icons-builder.vercel.app/)
@@ -15,7 +16,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThirdChyr&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThirdChyr&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThirdChyr)](https://github.com/anuraghazra/github-readme-stats)
 
 🔗 **Contact**  
 - 📧 Email: [Chayathon14639@gmail.com]  
