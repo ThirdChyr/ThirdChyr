@@ -1,10 +1,10 @@
 # 👋 Hello There! I'm **Chayathon Rungrueang**  
 
-🎓 **Computer Engineering Student** at **Kasetsart University Sriracha Campus**  
+🎓 **Computer Engineering Student** @ Kasetsart University Sriracha Campus  
 💡 Passionate about **Embedded Systems, Cloud Computing, FPGA, RTOS, and IoT**  
 
 ## 🚀 **Languages & Tools**
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,javascript,py&center=true&perline=10)](https://skill-icons-builder.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,javascript,arduino,docker,postman,py,anaconda,ubuntu,linux,azure&perline=7)](https://skill-icons-builder.vercel.app/)
 
 ## 🗄 **Databases**
 [![Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
