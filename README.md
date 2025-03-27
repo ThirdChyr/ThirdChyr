@@ -10,10 +10,12 @@
 [![Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 ## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThirdChyr&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ThirdChyr&show_icons=true&theme=tokyonight" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThirdChyr&layout=compact&theme=tokyonight&card_width=450" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ThirdChyr&show_icons=true&theme=tokyonight&card_width=450" /></td>
+  </tr>
+</table>
 
 ---
 
