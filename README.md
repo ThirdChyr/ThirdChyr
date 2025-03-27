@@ -4,7 +4,7 @@
 💡 Passionate about **Embedded Systems, Cloud Computing, FPGA, RTOS, and IoT**  
 
 ## 🚀 **Languages & Tools**
-[![Skills](https://skillicons.dev/icons?i=c,cpp,python,js,docker,kubernetes,postman,arduino,linux,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,javascript,py&center=true&perline=10)](https://skill-icons-builder.vercel.app/)
 
 ## 🗄 **Databases**
 [![Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
