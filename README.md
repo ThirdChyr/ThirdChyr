@@ -6,7 +6,8 @@
   
 
 ## 🚀 **Languages & Tools**
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,javascript,arduino,docker,postman,py,anaconda,ubuntu,linux,azure&perline=7)](https://skill-icons-builder.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,javascript,arduino,docker,postman,py,anaconda,ubuntu,linux,raspberrypi,azure&perline=7)](https://skill-icons-builder.vercel.app/)
+
 
 ## 🗄 **Databases**
 [![Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
