@@ -24,4 +24,3 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ThirdChyr&color=blue)
