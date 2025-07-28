@@ -23,4 +23,4 @@
 - 💻 GitHub: [ThirdChyr](https://github.com/ThirdChyr)  
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=ThirdChyr&color=blue)
