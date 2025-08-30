@@ -21,6 +21,6 @@
 🔗 **Contact**  
 - 📧 Email: [Chayathon14639@gmail.com]  
 - 💻 GitHub: [ThirdChyr](https://github.com/ThirdChyr)  
-
+- 🎓 Resume: [ThirdChyr](https://www.canva.com/design/DAGxjusihs0/hpJEAYW7o77UCYyJinpxqg/edit?utm_content=DAGxjusihs0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=ThirdChyr&color=blue)
