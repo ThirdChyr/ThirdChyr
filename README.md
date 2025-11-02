@@ -1,7 +1,7 @@
 # 👋 Hello There! I'm **Chayathon Rungrueang**  
 
 🎓 **Computer Engineering Student** at Kasetsart University Sriracha Campus  
-💡 Passionate about **Embedded Systems, Cloud Computing, Field programmable gate array , Real Time Operating System,IOT**  
+💡 Passionate about **Embedded Systems, Cloud Computing, Field Programmable Gate Array , Real Time Operating System,IOT**  
 🔥 Focus on **Embedded System, FreeRTOS**
   
 
